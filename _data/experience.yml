@@ -3,23 +3,24 @@
 - company: WALHALLA DATACENTERS
   position: Cloud Automation Engineer
   duration: 2018 &mdash; currently
+  summary: Automate and deployment OpenStack hybrid Clouds
   
 - company: NOKIA
   position: Site Reliability Engineer
   duration: Nov, 2016 &mdash; 2018
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+  summary: OpenStack management / Test performance / Red Hat troubleshooting
 
-- company: IIC
+- company: Instituto de Ingenieria y Conocimiento - IIC
   position: Linux System Administrator
   duration:  2012 &mdash; 2016
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: System and Network Linux management / VmWare / Ovirt / Linux hardering
 
 - company: ZeppelinTV - Endemol Group
   position: System Engineer
   duration:   2008  &mdash; 2012
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+  summary: Windows Server / Active Directory / Hardware repair / Helpdesk Support
 
 - company: Copermatica
   position: IT Technician
   duration: 2007 &mdash; 2008
-  summary: 
+  summary: Hardware & Software Repair / IT Office deployment / User Support
