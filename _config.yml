@@ -12,10 +12,10 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Miguel R. Exojo"
 resume_title:                   "Cloud Automation Engineer"
-resume_contact_email:           "job@mrexojo.es"
+resume_contact_email:           "job[at]mrexojo[dot]es"
 resume_contact_telephone:       "email, please"
 resume_contact_address:         "Madrid Area"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+resume_header_contact_info:     "Preference for remote positions"
 resume_header_intro: "<p>From Linux environment, I'm focus on help and learn by Automate Cloud Computing involved with Security, Big Data, IA / ML, Blockchain and new technologies related</p>"
 
 # use "yes" to display the email contact button,
@@ -32,7 +32,7 @@ resume_section_recognition:     true
 resume_section_education:       true
 #resume_section_projects:        true
 #resume_section_links:           true
-#resume_section_associations:    true
+resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
