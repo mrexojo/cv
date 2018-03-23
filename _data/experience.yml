@@ -1,11 +1,11 @@
 # Jobs
 
-#- company: WALHALLA DATACENTERS
-#  position: Cloud Automation Engineer
-#  duration: 2018 &mdash; currently
-#  summary: Automate and deployment OpenStack hybrid Clouds
+- company: Walhalla Cloud
+  position: Cloud Automation Engineer
+  duration: 2018 &mdash; currently
+  summary: Automate and deployment OpenStack hybrid Clouds
   
-- company: NOKIA
+- company: Nokia
   position: Site Reliability Engineer
   duration: Nov, 2016 &mdash; 2018
   summary: OpenStack management / Test performance / Red Hat troubleshooting
