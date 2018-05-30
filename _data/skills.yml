@@ -1,9 +1,10 @@
 # Skills
-- skill: Network & Security Linux Adminsitration
-  description: Debian, Red Hat, Linux-Hardering, OpenLDAP, PostgreSQL, Nagios, Postfix-Dovecot, LVM, RAID...
 
 - skill: Cloud & Virtualization
   description: OpenStack, Juju, VmWare, Ovirt, KVM, LXD-LXC, Terraform
+  
+- skill: Linux Adminsitration
+  description: Debian, Red Hat, Linux-Hardering, OpenLDAP, PostgreSQL, Nagios, Postfix-Dovecot, LVM, RAID...
 
 - skill: Code
   description: Python, Puppet, Ansible, Bash Scripting 
