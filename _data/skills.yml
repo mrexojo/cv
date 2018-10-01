@@ -1,10 +1,10 @@
 # Skills
 
 - skill: Cloud & Virtualization
-  description: OpenStack, Juju, VmWare, Ovirt, KVM, LXD-LXC, Terraform
+  description: OpenStack, AWS, Docker, Juju, VmWare, Ovirt, KVM, LXD-LXC
   
 - skill: Linux Adminsitration
   description: Debian, Red Hat, Linux-Hardering, OpenLDAP, PostgreSQL, Nagios, Postfix-Dovecot, LVM, RAID...
 
 - skill: Code
-  description: Python, Puppet, Ansible, Bash Scripting 
+  description: Python, Terraform, Ansible, Bash Scripting 
