@@ -1,8 +1,13 @@
 # Jobs
   
+- company: Sngular
+  position: Cloud Engineer
+  duration: Oct, 2018 &mdash; currently
+  summary: AWS management / Terraform / Ansible / Scripting 
+
 - company: Nokia
   position: Site Reliability Engineer
-  duration: Nov, 2016 &mdash; currently
+  duration: Nov, 2016 &mdash; 2018
   summary: OpenStack management / Test performance / Red Hat troubleshooting
 
 - company: Instituto de Ingenieria y Conocimiento - IIC
