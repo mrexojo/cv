@@ -4,7 +4,7 @@
   description: OpenStack, AWS, Docker, Juju, VmWare, Ovirt, KVM, LXD-LXC
   
 - skill: Linux Adminsitration
-  description: Debian, Red Hat, Linux-Hardering, OpenLDAP, PostgreSQL, Nagios, Postfix-Dovecot, LVM, RAID...
+  description: Debian, Red Hat, Linux-Hardering, LVM, OpenLDAP, PostgreSQL, MySQL, Nagios, Sensu...
 
 - skill: Code
-  description: Python, Terraform, Ansible, Bash Scripting 
+  description: Shell Scripting, Ansible, Python, Terraform, Groovy (Jenkins_files), Git
