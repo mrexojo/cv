@@ -1,12 +1,12 @@
 # Degree
-- degree: Bachelor Computer Science
-  uni: UOC
-  year: 2010 &mdash; 
+- degree: UOC
+  uni: Bachelor Computer Science
+  year: 2010 &mdash; (50%)
   
-- degree: High grade Computer Systems Management
-  uni: IES Juan Bosco
+- degree: IES Juan Bosco
+  uni: HG Computer Systems Management
   year: 2003 &mdash; 2005
 
-- degree: High grade Sound Technician
-  uni: CES Image & Sound
+- degree: CES Image & Sound
+  uni: HG Sound Technician
   year: 2001 &mdash; 2003
