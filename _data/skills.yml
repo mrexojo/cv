@@ -1,10 +1,13 @@
 # Skills
 
+- skill: Code & DevOps
+  description: Shell Scripting, Ansible, Packer, Terraform, Groovy (Jenkins_files), Git, Python..
+  
 - skill: Cloud & Virtualization
-  description: OpenStack, AWS, Docker, Juju, VmWare, Ovirt, KVM, LXD-LXC
+  description: OpenStack, AWS, Docker, Juju deployments, VmWare, Ovirt, KVM, LXD-LXC
   
 - skill: Linux Adminsitration
-  description: Debian, Red Hat, Linux-Hardering, LVM, OpenLDAP, PostgreSQL, MySQL, Nagios, Sensu...
-
-- skill: Code
-  description: Shell Scripting, Ansible, Python, Terraform, Groovy (Jenkins_files), Git
+  description: Debian-Ubuntu, Red Hat, Linux-Hardering, LVM, OpenLDAP, PostgreSQL, MySQL, Nagios, Sensu...
+  
+- skill: Corporate tools
+  description: Jira, Confluence, Slack, Microsoft Office, GSuite, CMS...
